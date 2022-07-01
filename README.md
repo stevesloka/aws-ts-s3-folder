@@ -1,4 +1,4 @@
-[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.steve.pulumi-dev.io/new?template=https://github.com/stevesloka/aws-ts-s3-folder/README.md)
+[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.steve.pulumi-dev.io/new?template=https://github.com/stevesloka/aws-ts-s3-folder)
 
 # Host a Static Website on Amazon S3
 
